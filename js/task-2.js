@@ -49,6 +49,6 @@ console.log(
 
 console.log(
     calcAverageCalories([
-      { day: "monday", calories: 2040 },
+      { day: "monday", calories: 2045 },
     ])
-    ); // 2243.33  
+    ); // 2045  
